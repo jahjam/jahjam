@@ -4,7 +4,7 @@ Please find below quick links to my live projects (everything you see was design
 
 - 🥬 [VeSearch - A Vegan Recipe Search engine built using React](https://vesearch-app.onrender.com/search) 🥬
 - 🎲 [ReRoll - A board game review website built using React](https://reroll-3whu.onrender.com/reviews) 🎲
-- 🎸 [EJANDTN - A band website built using Astro](https://www.elijahjamesandthenightmares.com/) 🎸
+- 🎸 [EJANDTN - A band website built using Astro and Strapi](https://www.elijahjamesandthenightmares.com/) 🎸
 - 🎬 [CineGuessr - A movie guessing game inspired by Wordle built using React](https://cineguessr.netlify.app) 🎬
 - 🎫 [GigPal - An event/gig organiser built using vanilla JS](https://gigpal.netlify.app/) 🎫
 
