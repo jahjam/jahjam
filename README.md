@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Please find below quick links to my live projects (everything you see was designed and programmed by me):
+
+- 🥬 [VeSearch - A Vegan Recipe Search engine built using React](https://vesearch-app.onrender.com/search) 🥬
+- 🎲 [ReRoll - A board game review website built using React](https://reroll-3whu.onrender.com/reviews) 🎲
+- 🎸 [EJANDTN - A band website built using Astro](https://www.elijahjamesandthenightmares.com/) 🎸
+- 🎬 [CineGuessr - A movie guessing game inspired by Wordle built using React](https://cineguessr.netlify.app) 🎬
+- 🎫 [GigPal - An event/gig organiser built using vanilla JS](https://gigpal.netlify.app/) 🎫
+
+I'm currently working on a 2d game using C and SDL2... Stay tuned.
+
 <!--
 **jahjam/jahjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
