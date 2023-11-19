@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-Please find below quick links to my live projects (everything you see was designed and programmed by me):
+Working/studying is what I'm doing right now, if you must know...
+
+<!--
+**jahjam/jahjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🥬 [VeSearch - A Vegan Recipe Search engine built using React and Node](https://vesearch-app.onrender.com/search) 🥬
 - 🎲 [ReRoll - A board game review website built using React and Node](https://reroll-3whu.onrender.com/reviews) 🎲
 - 🎬 [CineGuessr - A movie guessing game inspired by Wordle built using React and Supabase](https://cineguessr.netlify.app) 🎬
 - 🎸 [EJANDTN - A band website built using Astro and Strapi](https://www.elijahjamesandthenightmares.com/) 🎸
 - 🎫 [GigPal - An event/gig organiser built using vanilla JS](https://gigpal.netlify.app/) 🎫
-
-I'm currently working on a 2d game using C and SDL2... Stay tuned.
-
-<!--
-**jahjam/jahjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
