@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Working/studying is what I'm doing right now, if you must know...
+Working/studying is what I'm doing right now...
 
 <!--
 **jahjam/jahjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
